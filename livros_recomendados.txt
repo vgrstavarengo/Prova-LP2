@@ -1,0 +1,5 @@
+ANO:1997, TÍTULO:Harry Potter e a Pedra Filosofal, AUTOR: J.K. Rowling, NOTA:10, STATUS DE LEITURA: Lido
+ANO:1954, TÍTULO:A Socidade do Anel, AUTOR: J. R. R. Tolkien, NOTA:8, STATUS DE LEITURA:Lendo
+ANO:1960, TÍTULO:Sol é para Todos, AUTOR:Haper Lee, NOTA:7, STATUS DE LEITURA:Lendo
+ANO:2003, TÍTULO:O Código da Vinci, AUTOR:Dan Brown, NOTA:6, STATUS DE LEITURA:Lido
+ANO:2011, TÍTULO:A Dança dos Dragões, AUTOR:George R.R. Martin, NOTA:4, STATUS DE LEITURA:Lendo
